@@ -1,7 +1,7 @@
 # 
 #  alias
 #
-XMASFILE=$ZSH/custom/plugins/xmas/Luces.svg
+XMASFILE=$ZSH/plugins/xmas/Luces.svg
 alias icat="kitty +kitten icat"
 alias clear="clear; echo; echo; echo"
 
